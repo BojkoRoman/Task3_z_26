@@ -1,0 +1,11 @@
+﻿'Task3_z_26.exe': Loaded 'E:\Roman\Project Visual\Task3_z_26\Debug\Task3_z_26.exe', Symbols loaded.
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'Task3_z_26.exe': Loaded 'C:\Windows\SysWOW64\apphelp.dll', Cannot find or open the PDB file
+'Task3_z_26.exe': Loaded 'ImageAtBase0x4a5b0000', Loading disabled by Include/Exclude setting.
+'Task3_z_26.exe': Unloaded 'ImageAtBase0x4a5b0000'
+The thread 'Win32 Thread' (0xd48) has exited with code 0 (0x0).
+The program '[4328] Task3_z_26.exe: Native' has exited with code 0 (0x0).
